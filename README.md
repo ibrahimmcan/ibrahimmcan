@@ -1,9 +1,12 @@
 <h1 align="center">Hey there, I'm İbrahim 👨‍💻</h1>
 <h3 align="center">Software QA Tester | Bug Hunter | Quality Advocate</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Think+like+a+user.+Test+like+a+machine.+Deliver+like+a+pro." alt="QA Slogan Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0.05&color=3869fc&center=true&vCenter=true&width=800&lines=Think+like+a+user.;Test+like+a+machine.;Deliver+like+a+pro." alt="QA Slogan Typing SVG" />
 </p>
+
+
 
 
 
